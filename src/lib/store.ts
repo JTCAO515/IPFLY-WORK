@@ -1,6 +1,6 @@
 import { WorkRecord, CATEGORIES } from './types';
 
-const STORAGE_KEY = 'vibecoding-records';
+const STORAGE_KEY = 'ipfly-work-records';
 
 export function loadRecords(): WorkRecord[] {
   if (typeof window === 'undefined') return [];

@@ -1,4 +1,4 @@
-# Project Constraints — Vibecoding
+# Project Constraints — IPFLY WORK
 
 ## 技术约束
 

@@ -90,7 +90,7 @@ export default function RecordForm({ initialData, onSubmit, onCancel }: Props) {
           <div>
             <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">项目/任务</label>
             <input type="text" value={project} onChange={e => setProject(e.target.value)}
-              placeholder="例如：Vibecoding 开发"
+              placeholder="例如：IPFLY WORK 开发"
               className="w-full px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-sm" />
           </div>
 
