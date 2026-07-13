@@ -1,0 +1,16 @@
+{
+  "lastUpdated": "2026-07-13T10:00:00Z",
+  "currentPhase": "G1-project-creation",
+  "activeWork": ["Build MVP: record + dashboard"],
+  "blockers": [],
+  "nextActions": [
+    "Create Next.js project",
+    "Build core features",
+    "Deploy to Vercel"
+  ],
+  "readingOrder": [
+    "docs/governance/composite-engineering-baseline.md",
+    "docs/constraints/project-constraints.md",
+    "README.md"
+  ]
+}

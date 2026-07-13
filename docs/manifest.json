@@ -1,0 +1,22 @@
+{
+  "docs/governance/composite-engineering-baseline.md": {
+    "type": "governance", "status": "active", "owner": "JTCAO515",
+    "summary": "项目总目标与范围"
+  },
+  "docs/constraints/project-constraints.md": {
+    "type": "constraints", "status": "active", "owner": "JTCAO515",
+    "summary": "技术/商业约束"
+  },
+  "docs/constraints/qian-systems-engineering.md": {
+    "type": "constraints", "status": "active", "owner": "architecture",
+    "summary": "31 mandatory rules"
+  },
+  "docs/constraints/karpathy-guidelines.md": {
+    "type": "constraints", "status": "active", "owner": "engineering",
+    "summary": "Implementation discipline"
+  },
+  "docs/methodology/qian-systems-engineering.md": {
+    "type": "methodology", "status": "active", "owner": "architecture",
+    "summary": "Qian framework reference"
+  }
+}
