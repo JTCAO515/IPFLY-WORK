@@ -1,0 +1,18 @@
+{
+  "lastUpdated": "2026-07-13T00:00:00Z",
+  "currentPhase": "G0-design",
+  "activeWork": [],
+  "blockers": [],
+  "verificationEvidence": {},
+  "nextActions": [
+    "Define overall design baseline",
+    "Establish issue template",
+    "Create manifest and handoff sync"
+  ],
+  "readingOrder": [
+    "docs/methodology/qian-systems-engineering.md",
+    "docs/constraints/qian-systems-engineering.md",
+    "docs/constraints/karpathy-guidelines.md",
+    ".github/ISSUE_TEMPLATE/standard.md"
+  ]
+}

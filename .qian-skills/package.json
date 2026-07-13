@@ -1,0 +1,68 @@
+{
+  "name": "qian-systems-engineering",
+  "version": "1.0.0",
+  "description": "Complete software systems engineering framework combining Qian Xuesen's systems engineering, cybernetics, and modern practices for building closed-loop, observable, and knowledge-persistent systems.",
+  "type": "module",
+  "bin": {
+    "qian-init": "scripts/init.js",
+    "qian-audit": "scripts/audit.js",
+    "qian-docs-check": "scripts/docs-check.js",
+    "qian-docs-impact": "scripts/docs-impact.js",
+    "qian-generate-index": "scripts/generate-index.js",
+    "qian-context": "scripts/context-generator.js"
+  },
+  "scripts": {
+    "docs:check": "node scripts/docs-check.js",
+    "docs:impact": "node scripts/docs-impact.js",
+    "docs:generate-index": "node scripts/generate-index.js",
+    "context:generate": "node scripts/context-generator.js",
+    "init": "node scripts/init.js",
+    "audit": "node scripts/audit.js",
+    "test": "echo 'No tests defined'",
+    "lint": "echo 'No linting defined'"
+  },
+  "files": [
+    ".github/",
+    "docs/",
+    "references/",
+    "scripts/",
+    "skill/",
+    "templates/",
+    "DEPLOYMENT.md",
+    "DEPLOYMENT_COMPLETE.md",
+    "QUICK_START.md",
+    "README.md",
+    "SKILL.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "systems-engineering",
+    "qian-xuesen",
+    "cybernetics",
+    "control-theory",
+    "software-engineering",
+    "product-management",
+    "documentation-as-code",
+    "closed-loop-feedback",
+    "deviation-control",
+    "knowledge-persistence"
+  ],
+  "author": "VisePanda Architecture & Governance Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JTCAO515/qian-systems-engineering.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JTCAO515/qian-systems-engineering/issues"
+  },
+  "homepage": "https://github.com/JTCAO515/qian-systems-engineering#readme",
+  "devDependencies": {
+    "glob": "^10.0.0",
+    "json5": "^2.2.3"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "docs/methodology/qian-systems-engineering.md": {
+    "type": "methodology",
+    "status": "active",
+    "owner": "architecture",
+    "summary": "Qian systems engineering adaptation for software projects"
+  },
+  "docs/constraints/qian-systems-engineering.md": {
+    "type": "constraints",
+    "status": "active",
+    "owner": "architecture",
+    "summary": "Mandatory governance and lifecycle rules"
+  },
+  "docs/constraints/karpathy-guidelines.md": {
+    "type": "constraints",
+    "status": "active",
+    "owner": "engineering",
+    "summary": "Implementation discipline for simple, surgical, verifiable code changes"
+  }
+}

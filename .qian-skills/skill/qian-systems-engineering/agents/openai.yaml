@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qian Systems Engineering"
+  short_description: "Closed-loop systems engineering for AI coding"
+  default_prompt: "Use $qian-systems-engineering to plan and verify this project change as a closed-loop engineering task."

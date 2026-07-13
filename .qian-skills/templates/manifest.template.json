@@ -1,0 +1,20 @@
+{
+  "docs/methodology/qian-systems-engineering.md": {
+    "type": "methodology",
+    "status": "active",
+    "owner": "architecture",
+    "summary": "Complete Qian systems engineering framework"
+  },
+  "docs/constraints/qian-systems-engineering.md": {
+    "type": "constraints",
+    "status": "active",
+    "owner": "architecture",
+    "summary": "31 mandatory rules and gates"
+  },
+  "docs/constraints/karpathy-guidelines.md": {
+    "type": "constraints",
+    "status": "active",
+    "owner": "engineering",
+    "summary": "Simple, surgical, verifiable implementation discipline"
+  }
+}

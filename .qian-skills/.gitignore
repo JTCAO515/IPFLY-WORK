@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Generated files
+docs/INDEX.md
+CONTEXT.md
+*.log
+
+# Temporary files
+.temp/
+.tmp/
+dist/
+
+# OS
+Thumbs.db
+*.bak
+
+# Project-specific
+.env
+.env.local
+.env.*.local
+audit-report.md

@@ -1,0 +1,6 @@
+CONTEXT.md
+docs/INDEX.md
+*.log
+.DS_Store
+.temp/
+.tmp/

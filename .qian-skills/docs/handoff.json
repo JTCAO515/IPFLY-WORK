@@ -1,0 +1,29 @@
+{
+  "lastUpdated": "2026-07-13T00:00:00Z",
+  "currentPhase": "G3-package-hardening",
+  "activeWork": [
+    "Make the public qian-systems-engineering package installable and self-consistent"
+  ],
+  "blockers": [],
+  "verificationEvidence": {
+    "required": [
+      "npm run docs:check",
+      "npm run docs:generate-index",
+      "npm run context:generate",
+      "node scripts/init.js /tmp/qian-init-smoke",
+      "node scripts/docs-check.js --project /tmp/qian-init-smoke"
+    ]
+  },
+  "nextActions": [
+    "Keep README and scripts aligned with files that actually ship",
+    "Expand optional CI templates only when their commands are implemented"
+  ],
+  "readingOrder": [
+    "README.md",
+    "QUICK_START.md",
+    "SKILL.md",
+    "docs/methodology/qian-systems-engineering.md",
+    "docs/constraints/qian-systems-engineering.md",
+    "docs/constraints/karpathy-guidelines.md"
+  ]
+}
