@@ -5,8 +5,8 @@
   "blockers": [],
   "verificationEvidence": {
     "build": "npm run build ✅",
-    "github": "https://github.com/JTCAO515/vibecoding",
-    "vercelDeployLink": "https://vercel.com/new/clone?repository-url=https://github.com/JTCAO515/vibecoding"
+    "github": "https://github.com/JTCAO515/IPFLY-WORK",
+    "vercelDeployLink": "https://vercel.com/new/clone?repository-url=https://github.com/JTCAO515/IPFLY-WORK"
   },
   "nextActions": [
     "Deploy on Vercel (click the link above)",

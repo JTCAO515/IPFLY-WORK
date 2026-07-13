@@ -1,4 +1,4 @@
-# Vibecoding 🚀
+# IPFLY WORK 🚀
 
 > 个人工作效率追踪网站 — 记录工作成果，可视化效率趋势
 
@@ -22,12 +22,12 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/JTCAO515/vibecoding.git
-cd vibecoding
+git clone https://github.com/JTCAO515/IPFLY-WORK.git
+cd IPFLY-WORK
 npm install
 npm run dev
 ```
 
 ## Vercel 部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JTCAO515/vibecoding)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JTCAO515/IPFLY-WORK)

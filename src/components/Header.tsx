@@ -12,7 +12,7 @@ export default function Header({ view, onViewChange }: HeaderProps) {
       <div className="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
         <div className="flex items-center gap-2">
           <Activity className="w-6 h-6 text-blue-500" />
-          <span className="font-bold text-lg text-gray-900 dark:text-white">Vibecoding</span>
+          <span className="font-bold text-lg text-gray-900 dark:text-white">IPFLY WORK</span>
         </div>
         <nav className="flex gap-2">
           <button

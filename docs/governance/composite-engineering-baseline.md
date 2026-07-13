@@ -1,4 +1,4 @@
-# Composite Engineering Baseline — Vibecoding
+# Composite Engineering Baseline — IPFLY WORK
 
 > **项目**: 个人工作效率追踪网站
 > **状态**: 草稿 | **Owner**: JTCAO515 | **版本**: v0.1
